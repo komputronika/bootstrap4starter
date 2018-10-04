@@ -5,6 +5,8 @@ Bootstrap 4 Starter is a simple development environment with Gulp and Sass for [
 ## Status
 
 [![Build Status](https://travis-ci.com/komputronika/bootstrap4starter.svg?branch=master)](https://travis-ci.com/komputronika/bootstrap4starter)
+[![HitCount](http://hits.dwyl.com/komputronika/bootstrap4starter.svg)](http://hits.dwyl.com/komputronika/bootstrap4starter)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-bare/master/LICENSE)
 
 ## Screenshot
 
