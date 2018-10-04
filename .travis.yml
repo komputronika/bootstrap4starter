@@ -4,7 +4,8 @@ node_js:
   - "node"
 install:       npm install
 script:
-  - npm start
+  - gulp sass
+  - gulp js
 cache:
   directories:
     - node_modules
