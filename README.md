@@ -2,6 +2,10 @@
 
 Bootstrap 4 Starter is a simple development environment with Gulp and Sass for [Bootstrap 4](http://getbootstrap.com/), so you can quickly create Bootstrap websites.
 
+## Status
+
+[![Build Status](https://travis-ci.com/komputronika/bootstrap4starter.svg?branch=master)](https://travis-ci.com/komputronika/bootstrap4starter)
+
 ## Screenshot
 
 <img src="https://imageshack.com/a/img924/3221/458YFA.png" alt="Bootstrap 4 Starter"/>
