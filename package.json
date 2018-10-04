@@ -1,0 +1,39 @@
+{
+  "name": "bootstrap4starter",
+  "title": "Bootstrap 4 Starter Pack",
+  "version": "0.0.1",
+  "description": "Bootstrap 4 development starter pack with Gulp and Sass",
+  "keywords": [
+        "bootstrap",
+        "bootstrap 4",
+        "css",
+        "sass",
+        "html",
+        "responsive",
+        "theme",
+        "template"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp"
+  },
+  "author": "Komputronika",
+  "homepage": "https://github.com/komputronika/bootstrap4starter",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/komputronika/bootstrap4starter.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.4"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.24.7",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-clean-css": "^3.10.0",
+    "gulp-sass": "^4.0.1"
+  }
+}

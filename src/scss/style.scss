@@ -1,0 +1,22 @@
+/*!
+ * Bootstrap 4 Development Starter Pack
+ * Author: Komputronika
+ * Homepage: https://github.com/komputronika/bootstrap4starter
+ * Licensed under MIT 
+ */
+
+/* Need help with .scss? 
+ * Please visit: https://sass-lang.com/guide 
+ */ 
+
+$bg-color: #eeeeee;
+
+body {
+    background: $bg-color; 
+    padding-top: 5rem;
+}
+
+.starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+}
